@@ -170,6 +170,9 @@ iframe {
       color: rgb(29, 218, 161);
       border-radius: 10px;
   }
+.item:last-child{
+    height: 100%;
+}
 .item img{
     transition: transform 1s;
     will-change: scale;
@@ -187,7 +190,7 @@ p.desc{
     margin-top: 5px;
 }
 .fil{
-    width: 350px;
+    width: 80%;
     text-align: justify;
     font-size: 120%;
     border-radius: 50px;
