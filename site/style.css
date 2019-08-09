@@ -330,7 +330,7 @@ p.desc{
     }
     }
 @media screen and ( max-width: 400px){
-.item6 img{
+.item6 {
     margin-bottom:100px;
     }
 }
