@@ -327,12 +327,7 @@ p.desc{
     }
     .personagens{
         font-size: 400%;
-    }
-    }
-@media screen and ( max-width: 400px){
-.item6 {
-    margin-bottom:100px;
-    }
+      }
 }
  @media screen and (min-width: 720px){
         nav ul  {
