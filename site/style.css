@@ -321,6 +321,11 @@ p.desc{
         font-size: 400%;
     }
     }
+@media screen and ( max-width: 400px){
+.item6 img{
+    margin-bottom:100px;
+    }
+}
  @media screen and (min-width: 720px){
         nav ul  {
             padding-left: 20%;
