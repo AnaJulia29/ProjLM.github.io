@@ -2,7 +2,7 @@
 <h1>Site</h1>
 - https://anajulia29.github.io/projlm.github.io/site/
 
-- <h1>Descrição do projeto</h1>
+ <h1>Descrição do projeto</h1>
 - O site contém uma página
 - A página foi dividida em partes:
    - Home - imagem dos dois personagens principais. 
@@ -11,6 +11,14 @@
    - Filosofia - vídeo + 4 teorias e 2 frases organizados em grid e usando back-ground gradiente.
    - Contato - Formulário com Enviar, organizados em flex.
    - Footer - ícones para 3 redes sociais.
+- Há breakpoints em:
+   - max-width: 1250px
+   - max-width: 1200px
+   - max-width: 950px
+   - max-width: 720px ~ principal
+   - mín-width: 720px
+   - mín-width: 950px
+   - mín-width: 1150px
  <h1>Inspirações</h1>
 - 'Rick and Morty' é uma série animada adulta que mostra a relatividade no universo e várias teorias filosóficas em forma de comédia e zombaria, por isso conquistou vários espectadores de variadas faixas etárias. O site foi criado para pessoas que queiram conhecer mais a animação, seus personagens e as 'suas' filosofias por trás dos episódios.
 
