@@ -1,7 +1,7 @@
 # Ana Júlia - 20191370002
 <h1>Site</h1>
   -<a href="https://anajulia29.github.io/projlm.github.io/site/" target="_blank">Aqui !</a>
-<h1>Descrição do projeto</h1>
+-<h1>Descrição do projeto</h1>
   - O site contém uma página
   - A página foi dividida em partes:
    - Home - imagem dos dois personagens principais. 
