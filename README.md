@@ -5,9 +5,11 @@
 - <h1>Descrição do projeto</h1>
 - O site contém uma página
 - A página foi dividida em partes:
-   -> Home - imagem dos dois personagens principais. - tem resposividade automática, pois sua largura é relativa.
+<ol>
+   <li>-> Home - imagem dos dois personagens principais. - tem resposividade automática, pois sua largura é relativa.
    -> Sinopse - texto da sinopse + temporadas e episódios em formato de tabela - tem resposividades automáticas também.
-   -> Personagens - os 5 personagens principais - foram oragnizados em grid e usando back-ground gradiente - pontos de          breakpoints: max-1200px, max-720px.
+   -> Personagens - os 5 personagens principais - foram oragnizados em grid e usando back-ground gradiente - pontos de          breakpoints: max-1200px, max-720px.</li>
+  </ol>
    -> Filosofia - vídeo + 4 teorias e 2 frases - 
    -> Contato - 
    -> Footer - 
