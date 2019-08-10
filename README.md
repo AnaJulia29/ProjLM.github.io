@@ -5,15 +5,12 @@
 - <h1>Descrição do projeto</h1>
 - O site contém uma página
 - A página foi dividida em partes:
-<ol>
-   <li>-> Home - imagem dos dois personagens principais. - tem resposividade automática, pois sua largura é relativa.
-   -> Sinopse - texto da sinopse + temporadas e episódios em formato de tabela - tem resposividades automáticas também.
-   -> Personagens - os 5 personagens principais - foram oragnizados em grid e usando back-ground gradiente - pontos de          breakpoints: max-1200px, max-720px.</li>
-  </ol>
-   -> Filosofia - vídeo + 4 teorias e 2 frases - 
-   -> Contato - 
-   -> Footer - 
-
+   -> Home - imagem dos dois personagens principais. 
+   -> Sinopse - texto da sinopse + temporadas e episódios em formato de tabela.
+   -> Personagens - os 5 personagens principais - foram oragnizados em grid e usando back-ground gradiente. 
+   -> Filosofia - vídeo + 4 teorias e 2 frases organizados em grid e usando back-ground gradiente.
+   -> Contato - Formulário com Enviar, organizados em flex.
+   -> Footer - ícones para 3 redes sociais.
  <h1>Inspirações</h1>
 - 'Rick and Morty' é uma série animada adulta que mostra a relatividade no universo e várias teorias filosóficas em forma de comédia e zombaria, por isso conquistou vários espectadores de variadas faixas etárias. O site foi criado para pessoas que queiram conhecer mais a animação, seus personagens e as 'suas' filosofias por trás dos episódios.
 
