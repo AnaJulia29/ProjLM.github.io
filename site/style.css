@@ -193,6 +193,8 @@ p.desc{
     text-align: justify;
     font-size: 120%;
     border-radius: 50px;
+    margin-right:5%;
+    margin-left:5%;
     margin-bottom: 30px;
     background-image: linear-gradient(rgba(250, 16, 8, 0.856), rgba(3, 15, 182, 0.637));
     background-attachment: fixed;
